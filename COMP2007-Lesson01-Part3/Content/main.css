@@ -1,0 +1,24 @@
+﻿body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:medium;
+}
+
+.NameLabels {
+    color: #008000;
+}
+
+#imageDiv {
+    display: inline-block;
+}
+
+#namesDiv {
+    display: inline-block;
+}
+
+#firstname {
+    display: block;
+}
+
+#lastnmame {
+    display: block;
+}
